@@ -1,0 +1,27 @@
+[
+  {
+    "repository":  "ValidusOs-Devices/device_xiaomi_msm8956-common",
+    "target_path": "device/xiaomi/msm8956-common",
+    "branch":      "n"
+  },
+  {
+    "repository":  "ValidusOs-Devices/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "n"
+  },
+  {
+    "repository":  "TheDarkStrix/android_kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch":      "trigon"
+  },
+  { 
+    "repository":  "ThankYouMario/proprietary_vendor_qcom_sdclang-3.8_linux-x86",
+    "target_path": "prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_3.8/prebuilt/linux-x86_64",
+    "branch":      "nougat-mr1"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  }
+]
