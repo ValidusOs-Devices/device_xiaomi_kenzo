@@ -5,9 +5,9 @@
     "branch":      "n"
   },
   {
-    "repository":  "ValidusOs-Devices/proprietary_vendor_xiaomi",
+    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch":      "n"
+    "branch":      "cm-14.1"
   },
   {
     "repository":  "TheDarkStrix/android_kernel_xiaomi_msm8956",
